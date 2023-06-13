@@ -1,0 +1,6 @@
+/venv
+.idea
+*.so
+.DS_Store
+*.pyc
+*.sock
